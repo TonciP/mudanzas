@@ -1,0 +1,10 @@
+.content-banner img{
+    height: 300px;
+}
+.content-banner{
+    display: flex;
+    justify-content: center;
+}
+.content-banner{
+    background-image: url("img/banner.jpg")
+}
